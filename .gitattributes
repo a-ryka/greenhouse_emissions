@@ -2,5 +2,5 @@
 *.parquet filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.twb filter=lfs diff=lfs merge=lfs -text
-notebook/figs/*.* filter=lfs diff=lfs merge=lfs -text
 notebooks/figs/*.* filter=lfs diff=lfs merge=lfs -text
+notebook/figs/*.* filter=lfs diff=lfs merge=lfs -text
